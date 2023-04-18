@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993832232557",
+    "project_id": "whatsapp-ee535",
+    "storage_bucket": "whatsapp-ee535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993832232557:android:08fdc98fb5753291174164",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993832232557-g3cgkjoac8rv1s9mti7vf6973jmta7bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlTbkMP6XVomjpu7CPqygiCZV0o_OAcGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993832232557-g3cgkjoac8rv1s9mti7vf6973jmta7bm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
